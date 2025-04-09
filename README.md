@@ -1,6 +1,8 @@
 
 ## Overview of Project
 
+![image](https://github.com/user-attachments/assets/430234d7-18b3-4863-aefa-646f37671884)
+
 ## a. WeatherPy
 
 I created a Python script to visualize the weather of over 500 cities of varying distances from the equator using the `citipy` Python library and the OpenWeatherMap API.
